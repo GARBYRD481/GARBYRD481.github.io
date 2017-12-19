@@ -1,0 +1,61 @@
+
+#wb_header { background: transparent none repeat scroll left top; height: 160px; }
+#wb_main { background: transparent none repeat-x scroll left top; height: 1627px; padding-bottom: 20px; }
+#wb_footer { background: transparent url("http://moviepick.pw/gallery_gen/73f7634ab3f381fb40995f93740b3f8a.jpg") repeat-x scroll left top; height: 100px; }
+body { background: transparent url("http://moviepick.pw/gallery_gen/af032fbcb07ffc7bd2569d86ae4ce1f5.jpg") no-repeat scroll center top; }
+.wb_sbg { background: transparent url("http://moviepick.pw/gallery_gen/73f7634ab3f381fb40995f93740b3f8a.jpg") repeat-x scroll center bottom; }
+body, .wb_sbg { min-width: 1200px; min-height: 1887px; }
+.root { width: 1200px; height: 1887px; overflow: visible; min-height: 1887px; }
+#wb_element_instance19 { left: 1110px; top: 40px; min-width: 64px; width: 64px; min-height: 50px; height: 50px; display: block; z-index: 257; }
+#wb_element_instance19 ul { background: transparent none repeat scroll left top; border: 1px none #000000; }
+#wb_element_instance19, #wb_element_instance19 ul { text-align: right; }
+#wb_element_instance19 ul ul { background: #173963 none repeat scroll left top; }
+#wb_element_instance19 li { margin: 10px 0px 10px 0px; }
+#wb_element_instance19 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 20px 10px 20px; font: normal bold 14px 'Open Sans',sans-serif; text-decoration: none; color: #ffffff; line-height: 16px; background: transparent none repeat scroll left top; }
+#wb_element_instance19 li.over > a, #wb_element_instance19 li:focus > a { border: 0px none #000000; font: normal bold 14px 'Open Sans',sans-serif; text-decoration: underline; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center bottom; }
+#wb_element_instance19 li.active > a { border: 0px none #000000; font: normal bold 14px 'Open Sans',sans-serif; text-decoration: underline; color: #ffffff; line-height: 16px; background: transparent none no-repeat scroll center bottom; }
+#wb_element_instance19:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance19:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance19:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance20 { left: 30px; top: 40px; min-width: 610px; width: 610px; min-height: 24px; height: 24px; display: block; z-index: 187; }
+#wb_element_instance21 { left: 768px; top: 33px; min-width: 410px; width: 410px; min-height: 116px; height: 116px; display: block; z-index: 166; }
+#wb_element_instance22 { left: 15px; top: 20px; min-width: 346px; width: 346px; min-height: 134px; height: 134px; display: block; z-index: 167; overflow: hidden; }
+#wb_element_instance22 img { width: 345px; height: 134px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#wb_element_instance23 { left: 102px; top: 569px; min-width: 180px; width: 180px; min-height: 64px; height: 64px; display: block; z-index: 169; }
+#wb_element_instance24 { left: 102px; top: 232px; min-width: 480px; width: 480px; min-height: 161px; height: 161px; display: block; z-index: 178; }
+#wb_element_instance25 { left: 70px; top: 210px; min-width: 490px; width: 490px; min-height: 210px; height: 210px; display: block; z-index: 177; }
+#wb_element_instance25 > div.wb_shp { background: #000000; border: 5px solid #C0C0C0; opacity: 0.8; border-radius: 20px 20px 20px 20px; -moz-border-radius: 20px 20px 20px 20px; -webkit-border-radius: 20px 20px 20px 20px; width: 490px; height: 210px; }
+#wb_element_instance26 { left: 925px; top: 570px; min-width: 180px; width: 180px; min-height: 64px; height: 64px; display: block; z-index: 173; }
+#wb_element_instance27 { left: 523px; top: 570px; min-width: 180px; width: 180px; min-height: 64px; height: 64px; display: block; z-index: 171; }
+#wb_element_instance28 { left: 867px; top: 659px; min-width: 288px; width: 288px; min-height: 510px; height: 510px; display: block; z-index: 179; overflow: hidden; }
+#wb_element_instance28 img { width: 286px; height: 510px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#wb_element_instance29 { left: 48px; top: 658px; min-width: 287px; width: 287px; min-height: 510px; height: 510px; display: block; z-index: 180; overflow: hidden; }
+#wb_element_instance29 img { width: 286px; height: 510px; display: block; position: relative; left: 0px; top: 0px; max-width: inherit; }
+#wb_element_instance30 { left: 470px; top: 660px; min-width: 286px; width: 286px; min-height: 510px; height: 510px; display: block; z-index: 181; }
+#wb_element_instance30 img { width: 286px; height: 510px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance31 { left: 525px; top: 1250px; min-width: 180px; width: 180px; min-height: 32px; height: 32px; display: block; z-index: 182; }
+#wb_element_instance32 { left: 241px; top: 1300px; min-width: 710px; width: 710px; min-height: 90px; height: 90px; display: block; z-index: 165; }
+#wb_element_instance33 { left: 246px; top: 1507px; min-width: 710px; width: 710px; min-height: 30px; height: 30px; display: block; z-index: 167; }
+#wb_element_instance34 { left: 525px; top: 1450px; min-width: 180px; width: 180px; min-height: 32px; height: 32px; display: block; z-index: 184; }
+#wb_element_instance35 { left: 270px; top: 1487px; min-width: 700px; width: 700px; min-height: 120px; height: 120px; display: block; z-index: 116; }
+#wb_element_instance35 > div.wb_shp { background: #ffffff; border: 0px solid #C0C0C0; opacity: 1; border-radius: 0px 0px 0px 0px; -moz-border-radius: 0px 0px 0px 0px; -webkit-border-radius: 0px 0px 0px 0px; width: 700px; height: 120px; }
+#wb_element_instance36 { left: 0px; top: 2245px; display: block; z-index: 9000; }
+#wb_element_instance37 { left: 0px; top: 110px; display: block; z-index: 9999; }
+
+
+#wb_element_instance20 p:last-child { margin-bottom: 0; }
+#wb_element_instance21 p:last-child { margin-bottom: 0; }
+#wb_element_instance23 p:last-child { margin-bottom: 0; }
+#wb_element_instance24 p:last-child { margin-bottom: 0; }
+#wb_element_instance26 p:last-child { margin-bottom: 0; }
+#wb_element_instance27 p:last-child { margin-bottom: 0; }
+#wb_element_instance31 p:last-child { margin-bottom: 0; }
+#wb_element_instance32 p:last-child { margin-bottom: 0; }
+#wb_element_instance33 p:last-child { margin-bottom: 0; }
+#wb_element_instance34 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
